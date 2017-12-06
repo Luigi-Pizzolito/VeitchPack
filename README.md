@@ -1,6 +1,7 @@
 # VeitchPack #
 A keylogger bundled with a webserver. For remote access goodies on OSX... best done via ssh.
-**I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSE BY THIS SOFTWARE. PROCEED TO USE AT YOUR OWN RISK. I WILL NOT BE HELD LIABLE.**
+
+**DISCLAIMER: I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSE BY THIS SOFTWARE. PROCEED TO USE AT YOUR OWN RISK. I WILL NOT BE HELD LIABLE.**
 ### Download ###
 ~~~~
 curl -o "VeitchPack.zip" s
